@@ -15,18 +15,6 @@ import { View,
     ImageBackground
  } from "react-native";
 
-import { Colors } from '../utils/Colors';
-import { strings } from "../strings";
-import { stylesGlobal } from '../global/stylesGlobal';
-import ProgressIndicator from "../components/ProgressIndicator";
-import * as Global from "../global/Global";
-import WebService from "../utils/WebService";
-import { Constants } from "../global/Constants";
-import AsyncStorage from '@react-native-async-storage/async-storage';
-import { ifIphoneX, isIphoneX, getBottomSpace  } from '../components/react-native-iphone-x-helper';
-import { KeyboardAwareScrollView } from '../components/react-native-keyboard-aware-scroll-view';
-import HeaderView from '../custom_components/HeaderView';
-import TopNoticeView from '../custom_components/TopNoticeView';
 
 var TAG = "CategoryScreen";
 
