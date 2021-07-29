@@ -2,6 +2,16 @@
 
 
 
+this is test message to merge
+this is test message to merge
+this is test message to merge
+this is test message to merge
+this is test message to merge
+this is test message to merge
+this is test message to merge
+this is test message to merge
+
+
 var TAG = "CategoryScreen";
 
 export default class CategoryScreen extends Component {
