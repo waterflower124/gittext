@@ -1,19 +1,5 @@
 
-import React, { Component } from "react";
-import { View,
-    Text,
-    Image,
-    TouchableOpacity,
-    StyleSheet,
-    Dimensions,
-    Platform,
-    TextInput,
-    Alert,
-    KeyboardAvoidingView,
-    Switch,
-    ScrollView,
-    ImageBackground
- } from "react-native";
+
 
 
 var TAG = "CategoryScreen";
