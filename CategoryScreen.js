@@ -1,6 +1,12 @@
 
-
-
+ category_list: [
+                {category_name: strings.category_makeup, image: require("../assets/images/category_makeup.png")},
+                {category_name: strings.category_perfume, image: require("../assets/images/category_perfume.png")},
+                {category_name: strings.category_care, image: require("../assets/images/category_care.png")},
+                {category_name: strings.category_lens, image: require("../assets/images/category_lens.png")},
+                {category_name: strings.category_nails, image: require("../assets/images/category_nails.png")},
+                {category_name: strings.category_devices, image: require("../assets/images/category_devices.png")},
+            ]
 
 var TAG = "CategoryScreen";
 
